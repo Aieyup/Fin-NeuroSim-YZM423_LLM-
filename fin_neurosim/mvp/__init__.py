@@ -1,0 +1,2 @@
+"""MVP modülü: Basitleştirilmiş sürüm."""
+
